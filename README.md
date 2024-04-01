@@ -20,7 +20,7 @@ Completed the Google Cyber Security Professional program, gaining expertise in c
 - **Security Information and Event Management (SIEM) Tools:** Competence in utilizing SIEM tools for real-time security event monitoring, threat detection, and incident response.
 - **SQL:** Proficient in SQL database querying and management for data analysis, reporting, and security-related tasks.
 - **Linux:** Experience in working with Linux operating systems for system administration, network configuration, and security-related tasks.
-- **Intrusion Detection Systems (IDS):**  Mastery in configuring, deploying, and managing Intrusion Detection Systems (IDS) for proactive threat detection and response in network environments.
+- **Intrusion Detection Systems (IDS):** Mastery in configuring, deploying, and managing Intrusion Detection Systems (IDS) for proactive threat detection and response in network environments.
   
 <h2>Program walk-through:</h2>
 
