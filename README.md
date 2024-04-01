@@ -10,7 +10,7 @@ Completed the Google Cyber Security Professional program, gaining expertise in c
 
 - **Cybersecurity Fundamentals Proficiency:** Acquired a solid understanding of cybersecurity practices and their significance for organizational security.
 - **Risk Identification and Mitigation Expertise:** Demonstrated expertise in identifying and assessing risks, threats, and vulnerabilities to safeguard networks, devices, people, and data.
-- **Network Protection and SIEM Tool Proficiency::** Applied Security Information and Event Management (SIEM) tools proficiently to monitor and analyze security events and incidents.
+- **Network Protection and SIEM Tool Proficiency:** Applied Security Information and Event Management (SIEM) tools proficiently to monitor and analyze security events and incidents.
 - **Hands-On Experience in Python, Linux, and SQL:** Gained practical experience with Python programming language, Linux operating system, and SQL database management.
 - **Intrusion Detection Systems Mastery:**  Demonstrated mastery in configuring and managing Intrusion Detection Systems (IDS) to detect and respond to potential security threats.
 
