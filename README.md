@@ -22,41 +22,13 @@ Completed the Google Cyber Security Professional program, gaining expertise in c
 - **Linux:** Experience in working with Linux operating systems for system administration, network configuration, and security-related tasks.
 - **Intrusion Detection Systems (IDS):** Mastery in configuring, deploying, and managing Intrusion Detection Systems (IDS) for proactive threat detection and response in network environments.
   
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+**Certification of Completeion:**
+<img src="https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional/assets/145166234/2ae48c4c-f359-49cb-8170-62663ab51a82" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <!--
  ```diff
 - text in red
-+ text in green
++ text in green!
+
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
